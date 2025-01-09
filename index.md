@@ -26,6 +26,9 @@ fn main() {
 
 ### Lista de Tarefas
 
-- [X] Turn on GitHub Pages
-- [X] Outline my portfolio
-- [ ] Introduce myself to the world
+ - [X] Turn on GitHub Pages
+ - [X] Outline my portfolio
+ - [ ] Introduce myself to the world
+ - [ ] Create a personal introduction video/blog post
+ - [ ] Share my portfolio on social media
+ - [ ] Engage with other creators/developers online
