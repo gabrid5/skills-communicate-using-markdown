@@ -1,6 +1,8 @@
 # Atividade: Comunique-se usando Markdown
 
-![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
+<div align=center>
+  <img src="https://nsabers.com/cdn/shop/articles/bebec223da75d29d8e03027fd2882262.png?v=1708781179" width="300" height="300">
+</div>
 
 ### Comandos Git
 
@@ -11,8 +13,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 #
 
-### Códigos JavaScript
+### Código Rust
 
-``` javascript
-var myVar = "Hello, world!";
+``` rust
+fn main() {
+    let my_var = "Hello, world!";
+    println!("{}", my_var);
+}
 ```
