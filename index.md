@@ -1,6 +1,6 @@
 # Atividade: Comunique-se usando Markdown
 
-<div align=center>
+<div>
   <img src="https://nsabers.com/cdn/shop/articles/bebec223da75d29d8e03027fd2882262.png?v=1708781179" width="300" height="300">
 </div>
 
@@ -21,3 +21,11 @@ fn main() {
     println!("{}", my_var);
 }
 ```
+
+#
+
+### Lista de Tarefas
+
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
